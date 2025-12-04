@@ -23,7 +23,8 @@ Our larger system aims to combine predictions from three different AI models (en
 ## Key Features
 
 ✅ **85% accuracy** on test dataset  
-✅ **3-model ensemble** for robust predictions (not fully integrated for dashboard deployment, however 2 ResNet models were utilized for app)
+✅ **3-model ensemble** for robust predictions 
+(not fully integrated for dashboard deployment, however 2 ResNet models were utilized for app)
 ✅ **Web dashboard** with easy-to-use interface  
 ✅ **Real-time analysis** with visual confidence metrics
 
@@ -82,4 +83,4 @@ https://www.kaggle.com/datasets/mohamedgobara/multi-class-knee-osteoporosis-x-ra
 - Dias et al. (2024). "Osteoporosis Screening: Leveraging EfficientNet with Panoramic Radiography Imaging." *Biomedical Signal Processing and Control*. https://doi.org/10.1016/j.bspc.2024.107031
 - Sözen, Tümay, Lale Özışık, and Nursel Çalık Başaran. "An overview and management of osteoporosis." European journal of rheumatology 4, no. 1 (2016): 46.
 
-Educational/Research use only. Not for clinical application.
+AI4ALL Career Accelerator Group 11A, Fall 2025 Cohort
